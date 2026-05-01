@@ -1,0 +1,2 @@
+   Total Sales = SUM(Sales_Data[Sales_Amt.])
+   Total Profit = SUM(Sales_Data[Profit_Amt.])
